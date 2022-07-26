@@ -1,4 +1,4 @@
-# research-deforestation-in-drc
+# Using Remote Sensing to Assess Deforestation in the Democratic Republic of Congo (DRC)
 
 Example notebooks and methodology developed on the MAAP to understand deforestation in protected areas of the DRC.
 
