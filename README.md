@@ -16,7 +16,7 @@ https://www.nytimes.com/2022/07/24/world/africa/congo-oil-gas-auction.html
 
 ### Done
 * Establish the protected areas:
-   * 1 PA where the GFC dataset showed an interesting “edge effect” deforestation signal
+   * 1 protected area (PA) where the (global forest cover) GFC dataset showed an interesting “edge effect” deforestation signal
    * 1 PA that is rated lowest in efficiency of all the DRC PAs (using GEDI dataset)
 * Establish where there is deforestation within those protected areas using Hans's Global Forest Change dataset.
 * Inspect those areas for interesting deforestation signatures - interesting patterns or spotted areas
