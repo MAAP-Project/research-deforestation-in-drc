@@ -4,7 +4,7 @@ Example notebooks and methodology developed on the MAAP to understand deforestat
 
 ## Research Goals
 
-* Understand patterns of deforestation in the DRC, specifically in selected protected areas, using high-res Planet
+* Understand patterns of deforestation in the DRC, specifically in selected protected areas, using high-res Planet data.
 * Where can higher spatial and temporal data, such as Planet data, help quickly identify areas of deforestation?
 
 ## Motivation:
